@@ -8,8 +8,6 @@ As a IT engineer, I enjoy using my obsessive attention to detail, and my experie
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="[https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=tru](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZjd3pnamE5MXc4MWx6YXFnbWxmeXd2aGU1NjNpdmV5bnpjbGVhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)" width="408" height="318" />
-
 
 ### Talking about Personal Stuff:
 
